@@ -1,0 +1,15 @@
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example004_dell\bin\Debug\net6.0\Example004_dell.exe
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example004_dell\bin\Debug\net6.0\Example004_dell.deps.json
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example004_dell\bin\Debug\net6.0\Example004_dell.runtimeconfig.json
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example004_dell\bin\Debug\net6.0\Example004_dell.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example004_dell\bin\Debug\net6.0\Example004_dell.pdb
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example004_dell\obj\Debug\net6.0\Example004_dell.csproj.AssemblyReference.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example004_dell\obj\Debug\net6.0\Example004_dell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example004_dell\obj\Debug\net6.0\Example004_dell.AssemblyInfoInputs.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example004_dell\obj\Debug\net6.0\Example004_dell.AssemblyInfo.cs
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example004_dell\obj\Debug\net6.0\Example004_dell.csproj.CoreCompileInputs.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example004_dell\obj\Debug\net6.0\Example004_dell.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example004_dell\obj\Debug\net6.0\refint\Example004_dell.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example004_dell\obj\Debug\net6.0\Example004_dell.pdb
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example004_dell\obj\Debug\net6.0\Example004_dell.genruntimeconfig.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example004_dell\obj\Debug\net6.0\ref\Example004_dell.dll
