@@ -1,0 +1,15 @@
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example006_Girry\bin\Debug\net6.0\Example006_Girry.exe
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example006_Girry\bin\Debug\net6.0\Example006_Girry.deps.json
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example006_Girry\bin\Debug\net6.0\Example006_Girry.runtimeconfig.json
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example006_Girry\bin\Debug\net6.0\Example006_Girry.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example006_Girry\bin\Debug\net6.0\Example006_Girry.pdb
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example006_Girry\obj\Debug\net6.0\Example006_Girry.csproj.AssemblyReference.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example006_Girry\obj\Debug\net6.0\Example006_Girry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example006_Girry\obj\Debug\net6.0\Example006_Girry.AssemblyInfoInputs.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example006_Girry\obj\Debug\net6.0\Example006_Girry.AssemblyInfo.cs
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example006_Girry\obj\Debug\net6.0\Example006_Girry.csproj.CoreCompileInputs.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example006_Girry\obj\Debug\net6.0\Example006_Girry.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example006_Girry\obj\Debug\net6.0\refint\Example006_Girry.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example006_Girry\obj\Debug\net6.0\Example006_Girry.pdb
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example006_Girry\obj\Debug\net6.0\Example006_Girry.genruntimeconfig.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example006_Girry\obj\Debug\net6.0\ref\Example006_Girry.dll
