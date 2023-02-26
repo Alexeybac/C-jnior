@@ -1,0 +1,15 @@
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example003_Summ\obj\Debug\net6.0\Example003_Summ.csproj.AssemblyReference.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example003_Summ\obj\Debug\net6.0\Example003_Summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example003_Summ\obj\Debug\net6.0\Example003_Summ.AssemblyInfoInputs.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example003_Summ\obj\Debug\net6.0\Example003_Summ.AssemblyInfo.cs
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example003_Summ\obj\Debug\net6.0\Example003_Summ.csproj.CoreCompileInputs.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example003_Summ\bin\Debug\net6.0\Example003_Summ.exe
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example003_Summ\bin\Debug\net6.0\Example003_Summ.deps.json
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example003_Summ\bin\Debug\net6.0\Example003_Summ.runtimeconfig.json
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example003_Summ\bin\Debug\net6.0\Example003_Summ.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example003_Summ\bin\Debug\net6.0\Example003_Summ.pdb
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example003_Summ\obj\Debug\net6.0\Example003_Summ.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example003_Summ\obj\Debug\net6.0\refint\Example003_Summ.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example003_Summ\obj\Debug\net6.0\Example003_Summ.pdb
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example003_Summ\obj\Debug\net6.0\Example003_Summ.genruntimeconfig.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example003_Summ\obj\Debug\net6.0\ref\Example003_Summ.dll
