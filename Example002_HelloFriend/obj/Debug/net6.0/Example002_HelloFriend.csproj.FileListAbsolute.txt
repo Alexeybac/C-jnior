@@ -1,0 +1,15 @@
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example002_HelloFriend\bin\Debug\net6.0\Example002_HelloFriend.exe
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example002_HelloFriend\bin\Debug\net6.0\Example002_HelloFriend.deps.json
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example002_HelloFriend\bin\Debug\net6.0\Example002_HelloFriend.runtimeconfig.json
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example002_HelloFriend\bin\Debug\net6.0\Example002_HelloFriend.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example002_HelloFriend\bin\Debug\net6.0\Example002_HelloFriend.pdb
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example002_HelloFriend\obj\Debug\net6.0\Example002_HelloFriend.csproj.AssemblyReference.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example002_HelloFriend\obj\Debug\net6.0\Example002_HelloFriend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example002_HelloFriend\obj\Debug\net6.0\Example002_HelloFriend.AssemblyInfoInputs.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example002_HelloFriend\obj\Debug\net6.0\Example002_HelloFriend.AssemblyInfo.cs
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example002_HelloFriend\obj\Debug\net6.0\Example002_HelloFriend.csproj.CoreCompileInputs.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example002_HelloFriend\obj\Debug\net6.0\Example002_HelloFriend.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example002_HelloFriend\obj\Debug\net6.0\refint\Example002_HelloFriend.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example002_HelloFriend\obj\Debug\net6.0\Example002_HelloFriend.pdb
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example002_HelloFriend\obj\Debug\net6.0\Example002_HelloFriend.genruntimeconfig.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example002_HelloFriend\obj\Debug\net6.0\ref\Example002_HelloFriend.dll
