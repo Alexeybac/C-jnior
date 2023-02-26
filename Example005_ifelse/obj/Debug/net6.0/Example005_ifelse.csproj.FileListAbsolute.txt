@@ -1,0 +1,15 @@
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.csproj.AssemblyReference.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.AssemblyInfoInputs.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.AssemblyInfo.cs
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.csproj.CoreCompileInputs.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example005_ifelse\bin\Debug\net6.0\Example005_ifelse.exe
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example005_ifelse\bin\Debug\net6.0\Example005_ifelse.deps.json
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example005_ifelse\bin\Debug\net6.0\Example005_ifelse.runtimeconfig.json
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example005_ifelse\bin\Debug\net6.0\Example005_ifelse.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example005_ifelse\bin\Debug\net6.0\Example005_ifelse.pdb
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example005_ifelse\obj\Debug\net6.0\refint\Example005_ifelse.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.pdb
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.genruntimeconfig.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example005_ifelse\obj\Debug\net6.0\ref\Example005_ifelse.dll
