@@ -1,0 +1,15 @@
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Exampel007_Triangl\obj\Debug\net6.0\Exampel007_Triangl.csproj.AssemblyReference.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Exampel007_Triangl\obj\Debug\net6.0\Exampel007_Triangl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Exampel007_Triangl\obj\Debug\net6.0\Exampel007_Triangl.AssemblyInfoInputs.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Exampel007_Triangl\obj\Debug\net6.0\Exampel007_Triangl.AssemblyInfo.cs
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Exampel007_Triangl\obj\Debug\net6.0\Exampel007_Triangl.csproj.CoreCompileInputs.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Exampel007_Triangl\bin\Debug\net6.0\Exampel007_Triangl.exe
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Exampel007_Triangl\bin\Debug\net6.0\Exampel007_Triangl.deps.json
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Exampel007_Triangl\bin\Debug\net6.0\Exampel007_Triangl.runtimeconfig.json
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Exampel007_Triangl\bin\Debug\net6.0\Exampel007_Triangl.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Exampel007_Triangl\bin\Debug\net6.0\Exampel007_Triangl.pdb
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Exampel007_Triangl\obj\Debug\net6.0\Exampel007_Triangl.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Exampel007_Triangl\obj\Debug\net6.0\refint\Exampel007_Triangl.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Exampel007_Triangl\obj\Debug\net6.0\Exampel007_Triangl.pdb
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Exampel007_Triangl\obj\Debug\net6.0\Exampel007_Triangl.genruntimeconfig.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Exampel007_Triangl\obj\Debug\net6.0\ref\Exampel007_Triangl.dll
