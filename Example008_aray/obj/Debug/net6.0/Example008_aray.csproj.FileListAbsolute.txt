@@ -1,0 +1,15 @@
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example008_aray\obj\Debug\net6.0\Example008_aray.csproj.AssemblyReference.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example008_aray\obj\Debug\net6.0\Example008_aray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example008_aray\obj\Debug\net6.0\Example008_aray.AssemblyInfoInputs.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example008_aray\obj\Debug\net6.0\Example008_aray.AssemblyInfo.cs
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example008_aray\obj\Debug\net6.0\Example008_aray.csproj.CoreCompileInputs.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example008_aray\bin\Debug\net6.0\Example008_aray.exe
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example008_aray\bin\Debug\net6.0\Example008_aray.deps.json
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example008_aray\bin\Debug\net6.0\Example008_aray.runtimeconfig.json
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example008_aray\bin\Debug\net6.0\Example008_aray.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example008_aray\bin\Debug\net6.0\Example008_aray.pdb
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example008_aray\obj\Debug\net6.0\Example008_aray.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example008_aray\obj\Debug\net6.0\refint\Example008_aray.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example008_aray\obj\Debug\net6.0\Example008_aray.pdb
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example008_aray\obj\Debug\net6.0\Example008_aray.genruntimeconfig.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Charp\Examples\Example008_aray\obj\Debug\net6.0\ref\Example008_aray.dll
